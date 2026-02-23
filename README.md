@@ -23,7 +23,7 @@ python --version
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/lucasbemlucas/pomodoro.git
+git clone https://github.com/lbalmendra/pomodoro.git
 cd pomodoro
 ```
 
